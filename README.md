@@ -1,5 +1,6 @@
 # Unboxing
 
+[![albertAI](http://img.youtube.com/vi/iKGs36-3Hyw/0.jpg)](https://youtu.be/iKGs36-3Hyw)
 
 전원 켜기/끄기와 부팅 방법
 --
